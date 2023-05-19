@@ -1,0 +1,18 @@
+uuid: 08f17a48-b15b-4bec-8655-4ab31153682a
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.carrera
+id: node.carrera.title
+field_name: title
+entity_type: node
+bundle: carrera
+label: 'Nombre de la Carrera'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
