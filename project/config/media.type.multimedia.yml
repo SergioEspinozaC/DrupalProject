@@ -1,0 +1,13 @@
+uuid: 5314faa8-ccfd-49f2-a0a6-28102d3e3db4
+langcode: en
+status: true
+dependencies: {  }
+id: multimedia
+label: multimedia
+description: ''
+source: image
+queue_thumbnail_downloads: false
+new_revision: false
+source_configuration:
+  source_field: field_media_image
+field_map: {  }
